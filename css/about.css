@@ -191,7 +191,7 @@ h5 {
 	#intro {
 		justify-content: center;
 		width: 100%;
-		padding: 2rem 4.5rem 0 4.5rem;
+		padding: 2.8rem 4.5rem 0 4.5rem;
 		box-sizing: border-box;
 	  }
 	
@@ -255,7 +255,7 @@ h5 {
 @media screen and (max-width: 50em) {
 .mjA {
 	position: fixed;
-	top: 55%;
+	top: 57%;
 	left: 0.9rem;
 	z-index: 10;
 	transform-origin: left top;
@@ -276,7 +276,7 @@ h5 {
 
 .mjB {
 	position: fixed;
-	top: 50%;
+	top: 52%;
 	z-index: 10;
 	right: 0.9rem;
 	transform-origin: right top;

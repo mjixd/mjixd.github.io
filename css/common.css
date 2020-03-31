@@ -142,7 +142,7 @@ footer text {
   @media screen and (max-width: 50em) {
 	.mjA {
 		position: fixed;
-		top: 55%;
+		top: 57%;
 		left: 0.9rem;
 		z-index: 10;
 		transform-origin: left top;
@@ -163,7 +163,7 @@ footer text {
 	
 	.mjB {
 		position: fixed;
-		top: 52%;
+		top: 54%;
 		z-index: 10;
 		right: 0.9rem;
 		transform-origin: right top;
