@@ -27,7 +27,6 @@ footer {
 	align-items: center;
 	justify-content: center;
 	width: 100%;
-	color: #284437;
   }
 
 footer text {
@@ -89,7 +88,6 @@ h5 {
 
 .intro-width a:hover {
 	color: rgb(111, 106, 255);
-	/* opacity: 0.4; */
   }
 
 .intro-width a sup {
