@@ -252,6 +252,10 @@ h5 {
 	padding: 0 1em;
 }
 
+
+
+
+
 .content__img,
 .content__title,
 .content__author,
@@ -266,12 +270,17 @@ h5 {
 	grid-area: link;
 	align-self: end;
 	justify-self: start;
+	margin: 0 0 0.5rem 0;
 	z-index: 10;
 	padding: 0 1.4em;
 	color:rgba(0, 0, 0, 0.4);
 	text-decoration: none;
 }
 
+.content__link:hover{
+	color:rgba(0, 0, 0, 1);
+	text-decoration: none; 
+} 
 
 .content__related-item {
 	padding: 1em;
@@ -326,7 +335,7 @@ h5 {
 
 .content--layout-2 .content__link {
 	align-self: end;
-	margin: 13rem 0 0 -0.8rem;
+	margin: 12.6rem 0 0 -0.8rem;
 }
 
 .content--layout-2 .content__link:hover{
@@ -412,7 +421,7 @@ h5 {
 
 .content--layout-4 .content__link {
 	align-self: end;
-	margin: 0 0 -24rem -0.8rem;
+	margin: 0 0 -23.2rem -0.8rem;
 }
 
 
