@@ -736,11 +736,11 @@ h5 {
 	}
 	.content--layout-4 .content__desc {
 		align-self: end;
-		margin: 0 -0.6rem -14rem 0rem;
+		margin: 0 -0.6rem -14.5rem 0rem;
 	}
 	.content--layout-4 .content__link {
 		align-self: end;
-		margin: 0 -1.8rem -12.6rem -0.1rem;
+		margin: 0 -1.8rem -13rem -0.1rem;
 	}
 	
 	.content--layout-4 .content__link:hover{
