@@ -118,7 +118,7 @@ h5 {
 
 .mjA {
 	position: fixed;
-	top: 60%;
+	top: 50%;
 	left: 1.8rem;
 	z-index: 10;
 	transform-origin: left top;
@@ -138,7 +138,7 @@ h5 {
 
 .mjB {
 	position: fixed;
-	top: 55%;
+	top: 50%;
 	z-index: 10;
 	right: 1.8rem;
 	transform-origin: right top;
@@ -256,7 +256,7 @@ h5 {
 .mjA {
 	position: fixed;
 	top: 50%;
-	left: 0.9rem;
+	left: 1.2rem;
 	z-index: 10;
 	transform-origin: left top;
 	transform: rotate(-90deg);
@@ -278,7 +278,7 @@ h5 {
 	position: fixed;
 	top: 50%;
 	z-index: 10;
-	right: 0.9rem;
+	right: 1.2rem;
 	transform-origin: right top;
 	transform: rotate(90deg);
 	font-size: 1rem;
