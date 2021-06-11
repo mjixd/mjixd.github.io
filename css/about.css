@@ -126,7 +126,7 @@ h5 {
   }
   
 .mjA a {
-	font-family: 'Roboto Mono', monospace;
+	font-family: 'Manrope',Arial,Helvetica,sans-serif,'Roboto Mono',monospace;
 	color: #fff;
 	text-decoration: none;
   }
@@ -146,7 +146,7 @@ h5 {
   }
   
 .mjB a {
-	font-family: 'Roboto Mono', monospace;
+	font-family: 'Manrope',Arial,Helvetica,sans-serif,'Roboto Mono',monospace;
 	color: #fff;
 	text-decoration: none;
   }
@@ -255,16 +255,16 @@ h5 {
 @media screen and (max-width: 50em) {
 .mjA {
 	position: fixed;
-	top: 57%;
+	top: 50%;
 	left: 0.9rem;
 	z-index: 10;
 	transform-origin: left top;
 	transform: rotate(-90deg);
-	font-size: 0.8em;
+	font-size: 1rem;
   }
   
 .mjA a {
-	font-family: 'Roboto Mono', monospace;
+	font-family: 'Manrope',Arial,Helvetica,sans-serif,'Roboto Mono',monospace;
 	color: #fff;
 	text-decoration: none;
   }
@@ -276,16 +276,16 @@ h5 {
 
 .mjB {
 	position: fixed;
-	top: 52%;
+	top: 50%;
 	z-index: 10;
 	right: 0.9rem;
 	transform-origin: right top;
 	transform: rotate(90deg);
-	font-size: 0.8em;
+	font-size: 1rem;
   }
 
 .mjB a {
-	font-family: 'Roboto Mono', monospace;
+	font-family: 'Manrope',Arial,Helvetica,sans-serif,'Roboto Mono',monospace;
 	color: #fff;
 	text-decoration: none;
   }
